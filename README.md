@@ -1,19 +1,88 @@
-<h1 align="center">Hi 👋, I'm Krishna mohan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Krishna Mohan</h1>
+<h3 align="center">Full Stack Engineer (Backend-focused) | Node.js | React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamohan645&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamohan645" /> </p>
-
-- 🌱 I’m currently learning **Node.js**
-
-- 📫 How to reach me **krishnaguduri08@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/krishnamohan645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishnamohan645" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishnamohan64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnamohan64/" height="30" width="40" /></a>
+<p align="center">
+Building production-ready web applications and scalable backend systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamohan645&show_icons=true&locale=en&layout=compact" alt="krishnamohan645" /></p>
+### 👨‍💻 About Me
+
+- 💼 1.5+ years experience as a **Software Engineer / Full Stack Developer**  
+- 🔥 Strong in **Node.js, REST APIs, Authentication, PostgreSQL**  
+- 🚀 Currently building:
+  - Coding platform (LeetCode style)
+  - Real-time chat application  
+- 🎯 Targeting **fintech, product companies, and big startups**  
+- 📫 Reach me at: **krishnaguduri08@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/krishnamohan64" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- JavaScript, SQL
+
+**Backend**
+- Node.js, Express.js  
+- REST APIs  
+- JWT & OTP Authentication  
+
+**Frontend**
+- React.js, Redux  
+- Tailwind CSS, Material UI  
+
+**Database**
+- PostgreSQL, MySQL  
+
+**Real-Time & Performance**
+- Socket.IO  
+- Redis  
+- Rate Limiting  
+
+**Cloud & Tools**
+- AWS EC2  
+- Git, GitHub  
+- Postman  
+
+**Integrations**
+- Google OAuth  
+- PhonePe Payment Gateway  
+
+---
+
+### 📌 Current Focus
+
+- Improving backend architecture  
+- System design basics  
+- Performance optimization  
+- Cloud deployment  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krishnamohan645&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan645&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building real-world products more than solving tutorial projects 😄
